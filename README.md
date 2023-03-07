@@ -15,3 +15,8 @@ Directory:
 - create
 - remove
 - information about size and files inside
+
+just compile using LAZARUS and it's done
+in settings "zapisz" save option and add your login and password
+
+Maybe in future there will be multilanguage, but for now its POLISH 
