@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="rag.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="7"/>
+        <CursorPos X="102" Y="19"/>
+        <UsageCount Value="70"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="programowanie.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="1054"/>
+        <CursorPos X="22" Y="1016"/>
+        <UsageCount Value="70"/>
+        <Bookmarks Count="1">
+          <Item0 Y="330" ID="9"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="fun1.pas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="375"/>
+        <CursorPos Y="392"/>
+        <UsageCount Value="35"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="401" Column="13" TopLine="390"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="1000" TopLine="993"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="633" Column="3" TopLine="630"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="383" Column="3" TopLine="381"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="636" Column="39" TopLine="627"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="406" Column="15" TopLine="380"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="634" Column="30" TopLine="631"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="405" Column="7" TopLine="394"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="912" TopLine="903"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="404" Column="28" TopLine="394"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="383" TopLine="381"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="637" Column="32" TopLine="634"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="165" Column="21" TopLine="159"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="639" Column="18" TopLine="636"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="415" Column="114" TopLine="403"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="3" Column="139"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="73" Column="10" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="232" Column="10" TopLine="217"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="73" Column="10" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="227" Column="59" TopLine="217"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="226" Column="59" TopLine="216"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="869" Column="31" TopLine="883"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="915" Column="34" TopLine="896"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="627" Column="3" TopLine="661"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="874" TopLine="861"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="873" TopLine="860"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="872" TopLine="859"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="871" TopLine="858"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="870" TopLine="857"/>
+      </Position>
+      <Position>
+        <Filename Value="programowanie.pas"/>
+        <Caret Line="857" Column="58" TopLine="851"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
